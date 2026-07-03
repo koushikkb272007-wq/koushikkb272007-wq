@@ -1,16 +1,21 @@
-## Hi there 👋
+# Hi there, I'm Koushik 👋
 
-<!--
-**koushikkb272007-wq/koushikkb272007-wq** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+I am an Electronics and Communication Engineering (ECE) student at Vardhaman College of Engineering. I'm highly passionate about embedded systems, hardware design, and building decentralized tech solutions. 
 
-Here are some ideas to get you started:
+## 🛠️ Tech Stack & Tools
+*   Languages:C, C++,Python
+*   Hardware & Embedded:ESP32, Arduino, LoRa Modules
+*   PCB Design & Engineering: Altium Designer
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+## 🚀 What I'm Working On
+*   NutriHover: Developing a decentralized smart agriculture system integrating LoRa and drone technology to handle weather forecasting and farm management.
+*  Fingerprint bike lock:a fingerprint reader based lock system for bikes ,seat compartment and fuel lid can alos be opened  using fingerprint 
+*   Custom Peripherals:Building specialized hardware devices, including a custom Bluetooth gamepad and an air mouse.
+
+## 🎮 Outside of Engineering
+When I'm not designing PCBs or writing firmware, you can find me:
+*   Creating content for Crosshair Gaming on YouTube and Instagram. 
+*   Playing PC titles like Valorant, Cyberpunk 2077, FH6 and Black Myth Wukong.
+
+## 📫 Let's Connect
+*   LinkedIn:https://www.linkedin.com/in/koushik-bonala-991a10381/
