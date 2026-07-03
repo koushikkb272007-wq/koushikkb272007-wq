@@ -1,6 +1,6 @@
 # Hi there, I'm Koushik 👋
 
-I am an Electronics and Communication Engineering (ECE) undergraduate. I'm highly passionate about embedded systems, hardware design, and building decentralized tech solutions. 
+I am an Electronics and Communication Engineering (ECE) undergraduate. I'm highly passionate about embedded systems, hardware design,open source electronics and building decentralized tech solutions. 
 
 ## 🛠️ Tech Stack & Tools
 *   Languages:C, C++,Python
