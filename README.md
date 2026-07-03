@@ -9,7 +9,7 @@ I am an Electronics and Communication Engineering (ECE) undergraduate. I'm highl
 
 ## 🚀 What I'm Working On
 *   NutriHover: Developing a decentralized smart agriculture system integrating LoRa and drone technology to handle weather forecasting and farm management.
-*  Fingerprint bike lock:a fingerprint reader based lock system for bikes ,seat compartment and fuel lid can alos be opened  using fingerprint 
+*  Fingerprint bike lock: A fingerprint reader based lock system for bikes ,seat compartment and fuel lid can alos be opened  using fingerprint 
 *   Custom Peripherals:Building specialized hardware devices, including a custom Bluetooth gamepad and an air mouse.
 
 ## 🎮 Outside of Engineering
